@@ -202,6 +202,11 @@ The data monitoring role was established through AWS CloudWatch to supervise bot
   <br>
   <img src = "images/Monitoring and controlling week 9 (2).png">
   <br>  
+  <br> 
+  <h2> AWS BADGE </h2>
+  <br>
+  <img src = "images/AWS Badge.png">
+  <br>  
   <h2> Conclusion </h2>
   <p>My City of Vancouver Public Washrooms Data Platform implementation obeys standard practices for data analysis plus security processes and governance standards and monitoring systems.</p>
 
